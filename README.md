@@ -226,9 +226,3 @@ Research consistently shows a **contagion effect** — mass shootings cluster in
 - [Brady United — Gun Violence Statistics](https://www.bradyunited.org/fact-sheets)
 
 ---
-
-## 🛠️ Tools Used
-
-- **Python** (pandas, matplotlib, seaborn) — data analysis & visualization
-- **Jupyter Notebook** — exploratory data analysis
-- **GitHub** — version control & presentation
