@@ -173,7 +173,3 @@ Data สนับสนุนสมมติฐานนี้จาก 3 หล
 - Brady United Against Gun Violence. (n.d.). *Statistics*. https://www.bradyunited.org/fact-sheets
 
 ---
-
-## 🛠️ เครื่องมือที่ใช้
-- **Python** (pandas, matplotlib) — วิเคราะห์ข้อมูลและสร้างกราฟ
-- **GitHub** — นำเสนอผลลัพธ์
